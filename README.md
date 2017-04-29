@@ -4,6 +4,8 @@
 ```
   Plugin Flash
   Valac
+  gtk+-3.0
+  
 ```
 
 ## Compilar:
